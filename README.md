@@ -1,6 +1,7 @@
 ## My Portfolio
 
 ### Summary
+
 - 8+ years of experience in a startup, specializing in SaaS product implementations
 - Lead Customer Experience Specialist with expertise in Marketing Automation, Web Development (HTML, jQuery, Knockout.js, Python), and Integrations
 - Experienced losses in crypto investments and realized that building Web3 skills offers better returns than trading
