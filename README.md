@@ -5,7 +5,7 @@ For private audits or security consulting, reach out to me on Twitter [@AshishLa
 
 ### Highlights
 - Ranked #13 on Project One World [Leaderboard](https://x.com/0xSpearmint/status/1851908819212996715)
-- 
+  
 ### Competitive Audits
 
 | Contest        | Platform  | Category                                   | Ranking      | Findings |
