@@ -4,7 +4,7 @@ I am an independent security researcher.
 For private audits or security consulting, reach out to me on Twitter [@AshishLach](https://x.com/AshishLach).
 
 ### Highlights
-- Ranked #13 on Project One World [Leaderboard](https://x.com/0xSpearmint/status/1851908819212996715)
+- Ranked #13 on Project One World [Leaderboard](https://codehawks.cyfrin.io/c/2024-11-one-world/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)
   
 ### Competitive Audits
 
