@@ -8,7 +8,12 @@
 - Went through Cyfrin Updraft security tutorials and completed CTF challenges to prepare myself up for public contests
 - Recently participated in the One World Project as my first contest and discovered a 1H vulnerability
 - Resigned in November 2024 to fully pursue Web3 security
-- Currently Independent security researcher grinding to reach pro level soon. Open for collaboration, reach out to me on Twitter [@AshishLach](https://x.com/AshishLach)
+- Currently Independent security researcher grinding to reach pro level soon.
+
+Open for collaboration
+- Twitter [@AshishLach](https://x.com/AshishLach)
+- Telegram: [@AshishLach](https://t.me/AshishLach)
+- Discord: [ashlac.](https://discordapp.com/users/ashlac.)
 
 ### Highlights
 - Ranked #13 on Project One World [Leaderboard](https://codehawks.cyfrin.io/c/2024-11-one-world/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)
