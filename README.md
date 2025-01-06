@@ -23,8 +23,8 @@ Open for collaboration
 
 | Contest        | Platform  | Category                                   | Ranking      | Findings |
 |----------------|-----------|-------------------------------------------|----------------|----------|
-| [Project One World](https://codehawks.cyfrin.io/c/2024-11-one-world/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)    | CodeHawks   | DAO                          | **#13**/61 🥈  | [1H](https://codehawks.cyfrin.io/c/2024-11-one-world/s/287) |
-| [Oku Custom Order Types](https://audits.sherlock.xyz/contests/641/leaderboard)    | Sherlock   | Defi Trading                          | #32/38 🥈  | [1H,1M](https://audits.sherlock.xyz/contests/641/report) |
+| [Project One World](https://codehawks.cyfrin.io/c/2024-11-one-world/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)    | CodeHawks   | DAO                          | **#13**/61  | [1H](https://codehawks.cyfrin.io/c/2024-11-one-world/s/287) |
+| [Oku Custom Order Types](https://audits.sherlock.xyz/contests/641/leaderboard)    | Sherlock   | Defi Trading                          | #32  | [1H,1M](https://audits.sherlock.xyz/contests/641/report) |
 
 ### Private Audits
-Not yet :)
+Not started
