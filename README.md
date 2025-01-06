@@ -27,3 +27,4 @@ Open for collaboration
 | [Oku Custom Order Types](https://audits.sherlock.xyz/contests/641/leaderboard)    | Sherlock   | Defi Trading                          | #32/38 🥈  | [1H,1M](https://audits.sherlock.xyz/contests/641/report) |
 
 ### Private Audits
+Not yet :)
