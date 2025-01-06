@@ -2,7 +2,7 @@
 
 ### Summary
 
-- 8+ years of experience in a startup, specializing in SaaS product implementations
+- 8+ years of professional experience working in a startup environment, specializing in SaaS product implementations
 - Lead Customer Experience Specialist with expertise in Marketing Automation, Web Development (HTML, jQuery, Knockout.js, Python), and Integrations
 - Experienced losses in crypto investments and realized that building Web3 skills offers better returns than trading
 - Gradually developed a passion for Web3 technologies
