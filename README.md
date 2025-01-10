@@ -29,3 +29,13 @@ Open for collaboration
 
 ### Private Audits
 Not started
+
+### My Learning journey so far in web3 security
+
+- Completed secureum
+- Capture the ether and Damn vulnerable ctfs completed 
+- Completed Patrick course 
+- Echidna pro series done
+- Currently exploring rust and solana
+
+
