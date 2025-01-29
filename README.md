@@ -31,8 +31,16 @@
 - Solana and Anchor basics done
 - Currently on Solana Security Bootcamp resources
 
+
 ## Open for teaming up
 - Twitter [@AshishLach](https://x.com/AshishLach)
 - Telegram: [@AshishLach](https://t.me/AshishLach)
 - Discord: [ashlac.](https://discordapp.com/users/ashlac.)
 
+
+
+
+### Interests
+Meditation, Yoga,
+Chess, PlayStation,
+Movies & Books
