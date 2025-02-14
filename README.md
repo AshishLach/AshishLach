@@ -33,7 +33,7 @@
 
 
 ## Open for teaming up
-- Twitter [@AshishLach](https://x.com/AshishLach)
+- Twitter [@AshishLach](https://x.com/0x_Ashish)
 - Telegram: [@AshishLach](https://t.me/AshishLach)
 - Discord: [ashlac.](https://discordapp.com/users/ashlac.)
 
