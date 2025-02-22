@@ -43,4 +43,4 @@
 ### Interests
 Meditation, Yoga,
 Chess, PlayStation,
-Movies & Books
+Movies & Reading Books
