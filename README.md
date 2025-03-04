@@ -1,4 +1,5 @@
 ## My Portfolio
+[My Resume](https://github.com/AshishLach/MyResume?tab=readme-ov-file#contact)
 
 ### Summary
 
