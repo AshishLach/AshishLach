@@ -31,7 +31,6 @@
 - CaptureTheEther & Ethernaut CTFs solved
 - Damn Vulnerable CTFs solved
 - Ready to start auditing in Solana/Anchor, Cairo & Sui Move platforms
-- Currently on Solana Security Bootcamp
 
 ## Open for teaming up
 - Twitter [@0x_Ashish](https://x.com/0x_Ashish)
