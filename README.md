@@ -28,11 +28,11 @@
 - Completed Secureum bootcamp resources
 - Completed Patrick Foundry and security course 
 - Echidna Pro Series done
-- Yul rareskills challenges solved
+- Rareskills Yul  challenges solved
 - CaptureTheEther & Ethernaut CTFs solved
 - Damn Vulnerable CTFs solved
-- Solana, Anchor, Rust: Intermediate Level reached
-- Currently on Solana Security Bootcamp resources
+- Ready to start auditing in Solana/Anchor, Cairo & Sui Move platforms
+- Currently on Solana Security Bootcamp
 
 ## Open for teaming up
 - Twitter [@0x_Ashish](https://x.com/0x_Ashish)
