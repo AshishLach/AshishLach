@@ -20,7 +20,7 @@
 | [Project One World](https://codehawks.cyfrin.io/c/2024-11-one-world/results?lt=contest&sc=reward&sj=reward&page=1&t=leaderboard)    | Nov 2024   | CodeHawks   | DAO                           | [1H](https://codehawks.cyfrin.io/c/2024-11-one-world/s/287) |
 | [Oku Custom Order Types](https://audits.sherlock.xyz/contests/641)    | Dec 2024   | Sherlock   | Defi Trading                          | [1H,1M](https://audits.sherlock.xyz/contests/641/report) |
 | [Second Swap](https://code4rena.com/audits/2024-12-secondswap)    | Dec 2024   | Code4rena   | Defi Trading                          | [3M](https://code4rena.com/reports/2024-12-secondswap) |
-| [Liquidity Management GMX Perpetuals](https://codehawks.cyfrin.io/c/2025-02-gamma)    | Feb 2025   | CodeHawks   | Defi Vault Perpetuals                          | Pending|
+| [Liquidity Management GMX Perpetuals](https://codehawks.cyfrin.io/c/2025-02-gamma)    | Feb 2025   | CodeHawks   | Defi Vault Perpetuals                          | 1M|
 | [Badger ebtc bsm exchange](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58)    | Mar 2025   | Cantina   | Defi Exchange                          | 1H|
 
 ### My Learning journey so far in web3 security
