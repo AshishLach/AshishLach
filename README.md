@@ -10,7 +10,7 @@
 - Recently participated in the One World Project as my first contest and discovered a 1H vulnerability  
 - Resigned in November 2024 to fully pursue Web3 security  
 - Audit Contest Profile <a href="https://audits.sherlock.xyz/watson/AshishLac" target="_blank">https://audits.sherlock.xyz/watson/AshishLac</a>  
-- Aspiring smart contracts security researcher seeking to reach Senior level soon  
+- Currently part of [ElectiSec Fellowship (Block 7)](https://electisec.com/fellowships), selected for hands-on training with real audits and mentorship
 
 ---
 
