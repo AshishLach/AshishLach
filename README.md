@@ -38,6 +38,10 @@
 
 - <a href="https://techfund.jp/en/media/amm-math-first-principles-part1" target="_blank">**DeFi AMM Math from First Principles — Part 1: Uniswap**</a>
 
+### Certifications
+- **Solidity Smart Contract Auditor Certification (SSCAC)** — *Hashlock, June 2025*  
+
+
 ---
 
 ### My Learning journey so far in web3 security
@@ -58,6 +62,5 @@
 
 ### Interests
 
-Meditation, Yoga,  
-Chess, PlayStation,  
-Movies & Reading Books
+Meditation · Yoga · Chess · Reading · PlayStation Gaming · Movies
+
