@@ -37,7 +37,8 @@
 - <a href="https://techfund.jp/en/media/amm-math-first-principles-part1" target="_blank">**DeFi AMM Math from First Principles — Part 1: Uniswap**</a>
 
 ### Certifications
-- **Solidity Smart Contract Auditor Certification (SSCAC)** — *Hashlock, June 2025*  
+- <a href=
+https://certification.hashlock.com/certificate/solidity-smart-contract-developer-certification target="_blank">**Solidity Smart Contract Auditor Certification (SSCAC)**</a> — *Hashlock, June 2025*
 
 
 ---
