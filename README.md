@@ -6,9 +6,7 @@
 - Lead Customer Experience Specialist with expertise in Marketing Automation, Web Development (HTML, jQuery, Knockout.js, Python), and Integrations  
 - Experienced losses in crypto investments and realized that building Web3 skills offers better returns than trading  
 - Gradually developed a passion for Web3 technologies  
-- Completed Cyfrin Updraft security tutorials and finished CTF challenges to prepare myself for public contests  
-- Recently participated in the One World Project as my first contest and discovered a 1H vulnerability  
-- Resigned in November 2024 to fully pursue Web3 security  
+- Resigned in November 2024 to fully pursue Web3 security full time
 - Audit Contest Profile <a href="https://audits.sherlock.xyz/watson/AshishLac" target="_blank">https://audits.sherlock.xyz/watson/AshishLac</a>  
 - Currently part of [ElectiSec Fellowship (Block 7)](https://electisec.com/fellowships), selected for hands-on training with real audits and mentorship
 
