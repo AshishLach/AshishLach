@@ -53,6 +53,7 @@
 - CaptureTheEther & Ethernaut CTFs solved  
 - Damn Vulnerable CTFs solved  
 - Hands-on familiarity with Solana (Anchor), Starknet (Cairo), and Sui (Move)
+- Noir Programming And ZK Circuits
 
 ## Open for teaming up
 
