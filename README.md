@@ -35,6 +35,8 @@
 ### Writings
 
 - <a href="https://techfund.jp/en/media/amm-math-first-principles-part1" target="_blank">**DeFi AMM Math from First Principles — Part 1: Uniswap**</a>
+- <a href="https://techfund.jp/en/media/amm-math-first-principles-part2-curve-v1" target="_blank">**DeFi AMM Math from First Principles — Part 2: Curve**</a>
+
 
 ### Certifications
 - <a href=
