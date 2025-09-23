@@ -16,10 +16,7 @@
 ## SUMMARY
 - 8+ years of <a href="https://www.linkedin.com/in/ashish-lachuria" target="_blank">professional experience</a> working in a startup environment, specializing in SaaS product implementations
 - Lead Customer Experience Specialist with expertise in Marketing Automation, Web Development (HTML, jQuery, Knockout.js, Python), and Integrations  
-- Experienced losses in crypto investments; shifted focus to building Web3 skills for better returns  
-- Gradually developed a passion for Web3 technologies  
-- Resigned in November 2024 to fully pursue Web3 Security full time
-- Audit Contest Profile <a href="https://audits.sherlock.xyz/watson/AshishLac" target="_blank">https://audits.sherlock.xyz/watson/AshishLac</a>
+- Started pursuing Web3 Security since mid 2024
 - Finished [ElectiSec Fellowship (Block 7)](https://electisec.com/fellowships), selected for hands-on training with real audits and mentorship
 - Currently engaged as a Web3 Security Researcher at TechFund
 
@@ -58,6 +55,7 @@
 - [DeFi AMM Math from First Principles — Part 1: Uniswap](https://techfund.jp/en/media/amm-math-first-principles-part1)
 - [DeFi AMM Math from First Principles — Part 2: Curve](https://techfund.jp/en/media/amm-math-first-principles-part2-curve-v1)
 - [Tornado Cash Demystified: Why Privacy Matters and How the Protocol Makes It Work](https://techfund.jp/en/media/why-privacy-matters-tornado-cash-demystified)
+- [Breaking Down the Three Pillars of Zero Knowledge Proofs](https://techfund.jp/en/media/zero-knowledge-proofs-pillars-explained)
 
 ### Certifications
 - [Solidity Smart Contract Auditor Certification (SSCAC)](https://certification.hashlock.com/certificate/solidity-smart-contract-developer-certification)  — *Hashlock, June 2025*
