@@ -20,6 +20,8 @@
 - Finished [ElectiSec Fellowship (Block 7)](https://electisec.com/fellowships), selected for hands-on training with real audits and mentorship
 - Currently engaged as a Web3 Security Researcher at TechFund
 
+<img width="432" height="432" alt="image" src="https://github.com/user-attachments/assets/f86989d2-eaee-4009-9608-52895b14380f" />
+
 ---
 
 ## COMPETITIVE AUDITS
