@@ -7,10 +7,8 @@
 
 
 ## Languages
-
-- **Confident:** Solidity  
-- **Familiar:** Rust, Move, Vyper
-
+- Solidity, Rust, Python & MERN stack
+- SQL & AWS (Lambda, API Gateway)
 
 
 ## SUMMARY
@@ -64,27 +62,7 @@
 
 ---
 
-## TRAINING & CTFs
-- Completed Cyfrin Updraft security tutorials  
-- Completed Secureum Bootcamp resources  
-- Completed Patrick Foundry Security course  
-- Echidna Pro Series done  
-- Rareskills Yul challenges solved  
-- CaptureTheEther & Ethernaut CTFs solved  
-- Damn Vulnerable CTFs solved  
-- Hands-on familiarity with Solana (Anchor), Starknet (Cairo), and Sui (Move)  
-- <a href="https://updraft.cyfrin.io/courses/noir-programming-and-zk-circuits" target="_blank">Noir Programming And ZK Circuits</a>
 
----
-
-## TECHNICAL SKILLS
-- **Web3 Security:** Smart Contract Auditing, Solidity Checklists, Reentrancy, Flash Loans, Oracle Manipulation, Storage Collision  
-- **Development:** Solidity, Rust, EVM, OpenZeppelin, Chainlink, IPFS, GraphQL, Gnosis Safe, JavaScript, Python, Knockout.js  
-- **Security Tools:** Foundry, Hardhat, Slither, Echidna, Certora, Chimera  
-- **Databases & Cloud:** SQL, AWS (Lambda, API Gateway)  
-- **Thorough Understanding:** SQL, AWS (Lambda, API Gateway)  
-
----
 
 ## WORK EXPERIENCE
 
