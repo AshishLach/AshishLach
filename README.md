@@ -98,8 +98,6 @@ Deep technical explorations of Web3 protocols:
 
 ## Professional Experience  
 
-## Professional Experience  
-
 **Web3 Security Researcher**  
 TechFund Inc. (March 2025 – Present)  
 - Conduct competitive audits on DeFi, DAO, and cross-chain protocols, identifying and documenting vulnerabilities.  
