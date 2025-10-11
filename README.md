@@ -120,7 +120,7 @@ Innovacx Tech Labs (2016 – 2025)
 - Integrated websites with Eloqua for automated email and message distribution  
 - Designed SQL queries and APIs for efficient data retrieval, reports, and data sync jobs  
 - Managed IP reputation, built QA test apps for push notifications, and optimized campaign delivery reliability  
-- Managed and mentored a 10-member cross-functional team in agile development practices
+- Managed and mentored a 15-member cross-functional team in agile development practices
 
 ---
 
