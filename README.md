@@ -11,7 +11,7 @@
 
 ## Professional Summary  
 
-Transitioned from 8+ years in SaaS product implementation and full-stack development to Web3 security auditing since mid-2024.
+Transitioned from 8.5 years in SaaS product implementation and full-stack development to Web3 security auditing since mid-2024.
 
 At Innovacx Tech Labs, led and built full-stack platforms and API-integrated systems using AWS, Python, PHP, and frontend frameworks (HTML, CSS, Knockout.js, jQuery), gaining strong end-to-end expertise and delivering marketing automation projects throughout the full lifecycle (Presales → Requirements Gathering → Implementation & Project Management → QA → Pre-deployment → Deployment → Post-deployment Support).
 
