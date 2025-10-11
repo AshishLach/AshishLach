@@ -50,7 +50,7 @@ Uncovered **20+ vulnerabilities** in competitive audits,  earning $3K in rewards
 | Contest                          | Language  | Date      | Platform     | Category              | Findings          |
 |----------------------------------|-----------|-----------|--------------|-----------------------|--------------------|
 | Majority Games                   | Solidity  | Aug 2025  | HackenProof  | Gaming Infra          | 2 Criticals        |
-| SuiDex                           | Sui Move  | Jul 2025  | HackenProof  | Trading               | 1M                 |
+| SuiDex                           | Sui Move  | Jul 2025  | HackenProof  | Trading               | 1H                 |
 | Allbridge Core Yield             | Solidity  | Jun 2025  | Sherlock     | Cross-Chain Bridge    | 1M                 |
 | Dodo Cross-Chain DEX             | Solidity  | Jun 2025  | Sherlock     | Cross-Chain DEX       | 1H, 1M             |
 | Burve AMM                        | Solidity  | Apr 2025  | Sherlock     | DeFi AMM              | 1H                 |
