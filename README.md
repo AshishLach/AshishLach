@@ -3,11 +3,10 @@
 **Web3 Security Researcher & Full Stack Developer**
 
 - **LinkedIn:** [Ashish Lachuria](https://www.linkedin.com/in/ashish-lachuria)  
-- **Sherlock Watson:** [AshishLac](https://audits.sherlock.xyz/watson/AshishLac)  
+- **Sherlock Watson:** [AshishLac](https://audits.sherlock.xyz/watson/AshishLac)
+- **HackenProof:** [AshishL](https://hackenproof.com/hackers/AshishL)
 - **X:** [@0x_Ashish](https://x.com/0x_Ashish)  
-- **Email:** ashish.lachuria2@gmail.com  
-- **GitHub:** [AshishLac](https://github.com/AshishLac)  
-
+- **Email:** ashish.lachuria2@gmail.com
 ---
 
 ## Professional Summary  
@@ -22,7 +21,7 @@ Completed ElectiSec Fellowship (Block 7) for hands-on audit mentorship.
 
 Specializing in smart contract vulnerabilities across DeFi, DAOs, and cross-chain protocols.
 
-Uncovered **20+ vulnerabilities** in competitive audits.
+Uncovered **20+ vulnerabilities** in competitive audits,  earning $3K in rewards
 
 ---
 
