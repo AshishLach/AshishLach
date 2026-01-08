@@ -17,7 +17,7 @@ Finding vulnerabilities in DeFi protocols, cross-chain bridges, and DAOs. Focuse
 **Specialties:** AMMs, cross-chain bridges, lending protocols
   
 **Web2:**
-- 1 Critical, 5 High, 5 Medium severity findings across 2 application audits
+- 1 Critical, 6 High, 5 Medium severity findings across 3 application audits
 
 **Current Role:** Security Researcher at TechFund Inc. (since April 2025)  
 
@@ -94,8 +94,9 @@ Deep technical breakdowns on DeFi math and zero-knowledge proofs, published via 
 - **Malda** (Sherlock): Lending protocol security-traced collateral oracles and liquidation paths.  
 - **Solayer Bridge** (Sherlock): Cross-chain Solana<>EVM (Rust)-secured message passing and asset bridging.  
 - **Super DCA** (Sherlock): Liquidity network automation-audited scheduled executions and gas optimizations.  
-- **Notepia** (May 2025) - Web2 Audit:  Access control bypass, Firebase misconfigurations, exposed API keys
-- **Offu** (December 2024) - Hybrid Web2/Web3 audit: 4 High findings including broken authentication, IDOR, missing rate limits, plus smart contract reentrancy
+- **Web2** (May 2025) - Web2 Audit:  Access control bypass, Firebase misconfigurations, exposed API keys
+- **Web2** (December 2025) - Hybrid Web2/Web3 audit: 4 High findings including broken authentication, IDOR, missing rate limits, plus smart contract reentrancy
+- **Web2** (Jan 2026) - Hybrid Web2/Web3 audit - key issues: incorrect fiat-to-fiat rate calc, insufficient balance validation, missing instruction type checks
 
 **ElectiSec Fellowship (Block 7)**: Hands-on mentorship with live audits.  
 
