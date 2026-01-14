@@ -1,10 +1,14 @@
 # Ashish Lachuria - Smart Contract Security Researcher
 
+**Current Role:** Security Researcher at TechFund Inc. (since April 2025) & Resident Auditor at @SafeEdges
+
 Solidity · Rust · Move · Vyper · ZK Circuits
 
 Finding vulnerabilities in DeFi protocols, cross-chain bridges, and DAOs. Focused on zero-knowledge proofs and cryptographic primitives.
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-@0x_Ashish-blue?style=flat&logo=twitter)](https://x.com/0x_Ashish)
+
+
 
 ---
 
@@ -18,8 +22,6 @@ Finding vulnerabilities in DeFi protocols, cross-chain bridges, and DAOs. Focuse
   
 **Web2:**
 - 1 Critical, 6 High, 5 Medium severity findings across 3 application audits
-
-**Current Role:** Security Researcher at TechFund Inc. (since April 2025)  
 
 ---
 
@@ -41,7 +43,7 @@ Foundry · Echidna · Certora · Slither · Aderyn
 ### Languages
 - Solidity (Advanced)  
 - Rust (Soroban, Solana)  
-- Move (Sui)  
+- Move  
 - Vyper  
 - Circom/Noir (for ZK circuits)  
 
