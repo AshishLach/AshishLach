@@ -26,6 +26,7 @@ Finding vulnerabilities in DeFi protocols, cross-chain bridges, and DAOs. Focuse
 ---
 
 ## Recent Findings
+- Move Private audit (December 2025)
 - **2 Critical** vulnerabilities in gaming infrastructure (Majority Games, August 2025)  
 - **High-severity** findings in:  
   - Cross-chain bridges (Allbridge, DODO, Solayer)  
@@ -88,6 +89,7 @@ Deep technical breakdowns on DeFi math and zero-knowledge proofs, published via 
 ---
 
 ## Other Audits through Contract and Fellowships
+- **Clique Move** (Private audit): Merkle-based airdrop distribution
 - **Spectra Finance** (Immunefi): Yield derivatives protocol-focused on oracle integrations and flash loan defenses.  
 - **Acquaris Soroban** (Cantina): AMM on Stellar/Soroban (Rust)-audited liquidity pools and cross-asset swaps.  
 - **Centrifuge**: ERC-7540 tokenized RWA vaults-reviewed tokenization logic and off-chain data feeds.  
