@@ -1,16 +1,13 @@
 # Ashish Lachuria - Smart Contract Security Researcher
-
-**Current Role:** Security Researcher at TechFund Inc. (since April 2025) & Resident Auditor at @SafeEdges
-
 Solidity · Rust · Move · Vyper · ZK Circuits
 
 Finding vulnerabilities in DeFi protocols, cross-chain bridges, and DAOs. Focused on zero-knowledge proofs and cryptographic primitives.
 
-[![Twitter Follow](https://img.shields.io/badge/Twitter-@0x_Ashish-blue?style=flat&logo=twitter)](https://x.com/0x_Ashish)
 
+#### Reach me on Telegram: [@AshishLac](https://t.me/AshishLac)
 
+**Current Role:** Security Researcher at TechFund Inc. (since April 2025) & Resident Auditor at @SafeEdges
 
----
 
 ## Impact
 
@@ -159,6 +156,7 @@ Open to Work: ZK-Focused Web3 Development and Audit Roles
 - Email: ashish.lachuria2@gmail.com  
 - X (Twitter): [@0x_Ashish](https://x.com/0x_Ashish)  
 - LinkedIn: [Ashish Lachuria](https://www.linkedin.com/in/ashish-lachuria)  
-- [HackenProof Profile](https://hackenproof.com/hackers/AshishL)  
+- [HackenProof Profile](https://hackenproof.com/hackers/AshishL)
+- Telegram: [@AshishLac](https://t.me/AshishLac)  
 
 Let's secure the next protocol together.
